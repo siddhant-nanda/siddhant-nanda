@@ -6,7 +6,7 @@ Hi there 👋
 -  Currently I am trying to learn React.
 -  You can reach me via e-mail at siddhantnanda03@gmail.com
   
-<h3 align="left">Connect with me:</h3>  
+Connect with me:
 <p align="left">  
 <a href="https://twitter.com/siddhant_nanda" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="siddhant_nanda" height="30" width="40" /></a>  
 <a href="https://linkedin.com/in/siddhant-nanda" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="siddhant-nanda" height="30" width="40" /></a>  
